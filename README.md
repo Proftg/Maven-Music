@@ -224,16 +224,9 @@ Subsequent phases of this project will include:
 - Business recommendations based on predictive insights
 - Deployment of retention strategies informed by model outputs
 
-## References
-
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*. Springer.
-- Provost, F., & Fawcett, T. (2013). *Data Science for Business: What you need to know about data mining and data-analytic thinking*. O'Reilly Media.
-
 ## Author
 
-[Your Name]  
-Jr. Data Scientist  
-Maven Music
+Tahar GUENFOUD  
 
 ## License
 
